@@ -1,0 +1,20 @@
+{
+  "name": "live-demo",
+  "version": "1.0.0",
+  "description": "Node and Redis",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "redis",
+    "demo"
+  ],
+  "author": "ksiler",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^11.1.2",
+    "redis": "^2.4.2"
+  }
+}
